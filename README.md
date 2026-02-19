@@ -87,6 +87,7 @@
 - **[Nansen](https://www.nansen.ai/)** - Provides insights and analytics on Ethereum transactions and DeFi activity.
 - **[Zapper](https://zapper.fi/)** - A dashboard for tracking DeFi assets and yield farming positions.
 - **[DeBank](https://debank.com/)** - An analytics tool for managing DeFi portfolios.
+- **[Octav](https://octav.fi/api)** - Multi-chain crypto portfolio tracking API. Track wallet holdings, DeFi protocol positions, transaction history, and token analytics across 20+ blockchains.
 
 ## Layer 2 Solutions
 
