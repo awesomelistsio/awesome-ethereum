@@ -79,6 +79,7 @@
 - **[MakerDAO](https://makerdao.com/)** - A decentralized protocol for generating the stablecoin DAI using Ethereum as collateral.
 - **[Compound](https://compound.finance/)** - A protocol for lending and borrowing Ethereum-based assets.
 - **[OpenSea](https://opensea.io/)** - The largest NFT marketplace on Ethereum.
+- **[Web3 Discover](https://web3-discover.vercel.app)** - A hand-vetted directory of currently-claimable Ethereum and EVM airdrops; deadline-sorted, every entry "last verified" stamped. No paid listings.
 
 ## Ethereum Analytics and Block Explorers
 
